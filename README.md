@@ -1,5 +1,7 @@
 # TaxiEconom UI Test Automation
 
+[![UI tests](https://github.com/Dzango988/taxi/actions/workflows/ui-tests.yml/badge.svg)](https://github.com/Dzango988/taxi/actions/workflows/ui-tests.yml)
+
 Portfolio project with automated UI regression tests for **taxieconom.ru**.
 
 The project demonstrates practical work with Python, pytest and Playwright: page navigation, stable locators, parametrization, positive and negative authorization scenarios, native form validation, protected-page checks and test grouping with pytest markers.
